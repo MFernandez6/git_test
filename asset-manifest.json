@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MFernandez6/git_test/static/css/main.954bf03c.chunk.css",
+    "main.js": "/MFernandez6/git_test/static/js/main.7a6cbf50.chunk.js",
+    "main.js.map": "/MFernandez6/git_test/static/js/main.7a6cbf50.chunk.js.map",
+    "runtime-main.js": "/MFernandez6/git_test/static/js/runtime-main.0105be44.js",
+    "runtime-main.js.map": "/MFernandez6/git_test/static/js/runtime-main.0105be44.js.map",
+    "static/js/2.9592c2a0.chunk.js": "/MFernandez6/git_test/static/js/2.9592c2a0.chunk.js",
+    "static/js/2.9592c2a0.chunk.js.map": "/MFernandez6/git_test/static/js/2.9592c2a0.chunk.js.map",
+    "static/js/3.839305b7.chunk.js": "/MFernandez6/git_test/static/js/3.839305b7.chunk.js",
+    "static/js/3.839305b7.chunk.js.map": "/MFernandez6/git_test/static/js/3.839305b7.chunk.js.map",
+    "index.html": "/MFernandez6/git_test/index.html",
+    "static/css/main.954bf03c.chunk.css.map": "/MFernandez6/git_test/static/css/main.954bf03c.chunk.css.map",
+    "static/js/2.9592c2a0.chunk.js.LICENSE.txt": "/MFernandez6/git_test/static/js/2.9592c2a0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/MFernandez6/git_test/static/media/logo.6ce24c58.svg",
+    "static/media/picture.a0f47c44.jpg": "/MFernandez6/git_test/static/media/picture.a0f47c44.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0105be44.js",
+    "static/js/2.9592c2a0.chunk.js",
+    "static/css/main.954bf03c.chunk.css",
+    "static/js/main.7a6cbf50.chunk.js"
+  ]
+}
