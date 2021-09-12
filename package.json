@@ -1,9 +1,10 @@
 {
-  "homepage": "https://github.com/MFernandez6/git_test.git",
+  "homepage": "https://MFernandez6.github.io/git_test",
   "name": "git_test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
